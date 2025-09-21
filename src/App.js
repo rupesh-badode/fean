@@ -2,7 +2,7 @@
 import Header from './Header';
 import Footer from "./Footer"
 import Hero from './home/Hero';
-import { BrowserRouter, Route, Router ,Routes} from 'react-router';
+import { BrowserRouter, Route ,Routes} from 'react-router';
 import Menu from './menu/Menu';
 import About from './about/About';
 import BookTable from './BookTable';
